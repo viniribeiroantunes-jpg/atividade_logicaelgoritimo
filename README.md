@@ -1,4 +1,4 @@
-# 📘 README – Atividade de Algoritmos
+# 📘Atividade de Algoritmos
 
 ## 👨‍🎓 Aluno
 
